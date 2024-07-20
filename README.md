@@ -2,13 +2,13 @@
 Welcome to the Personal Notes Application! This repository contains a web-based application for managing personal notes. The application is built using modern web technologies and follows a clean architecture pattern to ensure scalability and maintainability.
 
 ## Table of Contents
-1. Architecture
+1.Architecture
 <br/>
-2. Setup Instructions
+2.Setup Instructions
 <br/>
-3. Usage Guide
+3.Usage Guide
 <br/>
-4. Contributing
+4.Contributing
 <br/>
 
 ## Architecture
