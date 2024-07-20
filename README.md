@@ -2,13 +2,13 @@
 Welcome to the Personal Notes Application! This repository contains a web-based application for managing personal notes. The application is built using modern web technologies and follows a clean architecture pattern to ensure scalability and maintainability.
 
 ## Table of Contents
-1.Architecture
+1. Architecture
 <br/>
-2.Setup Instructions
+2. Setup Instructions
 <br/>
-3.Usage Guide
+3. Usage Guide
 <br/>
-4.Contributing
+4. Contributing
 <br/>
 
 ## Architecture
@@ -120,10 +120,10 @@ Create a `.env` file in the `backend` directory and add the following variables:
    ```
 
 ## Frontend Setup
-1.Navigate to the frontend directory:
+1.Navigate to the client directory:
      ```
      
-     cd ../frontend
+     cd ../client
 
      ```
 2.Install dependencies:
@@ -141,18 +141,23 @@ Create a `.env` file in the `backend` directory and add the following variables:
 
 The application should now be running with the frontend accessible at 
 <br/>
-`http://localhost:3000` and the backend at `http://localhost:5000.`
+`http://localhost:3000` and the backend at `http://localhost:3001.`
 
 ## Usage Guide
 ### Registration and Login
 <strong>Register:</strong> Create a new account using the registration form.
+<br/>
 <strong>Login:</strong> Log in with your credentials to access your notes.
+<br/>
 ### Creating and Managing Notes
 <strong>Create a Note:</strong> Use the "Create Note" button to create a new note.
+<br/>
 <strong>Edit a Note:</strong> Click on a note to edit its content.
+<br/>
 <strong>Delete a Note:</strong> Use the delete button on a note to remove it.
 ### User Profile
 <strong>Profile:</strong> Access your profile
+<br/>
 <strong>Logout:</strong> Log out from the application securely.
 ### Contributing
 We welcome contributions to the Personal Notes Application! To contribute, please follow these steps:
