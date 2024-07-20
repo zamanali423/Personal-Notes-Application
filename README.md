@@ -93,8 +93,8 @@ Authentication: `JWT (JSON Web Tokens)`
 1.Clone the repository:
     ```
     
-    git clone https://github.com/your-username/personal-notes-app.git
-    cd personal-notes-app/backend
+    git clone https://github.com/zamanali423/Personal-Notes-Application
+    cd personal-notes-app/server
     
     ```
 2.Install dependencies:
